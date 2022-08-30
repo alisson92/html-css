@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+body {
+    background-color: rgba(19, 151, 19, 0.527);
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: 'Shizuru', cursive, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    font-style: italic;
+    border: solid 7px;
+}
+
+p {
+    font-family: 'Lobster Two', cursive, sans-serif;
+    font-size: 1em;
+}
